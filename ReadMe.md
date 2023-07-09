@@ -8,6 +8,7 @@ My name is Tharun. I've been using GitHub to host my repos for a couple of years
 🚀  [Linked In](https://www.linkedin.com/in/tharun-dharmaraj-004888223/) 
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=TharunDharmaraj&style=flat-square&color=blue)
 
 <details >
 
@@ -24,6 +25,5 @@ My name is Tharun. I've been using GitHub to host my repos for a couple of years
 | [MultiPlayer Sample](https://github.com/TharunDharmaraj/TharunDharmaraj/raw/main/MultiPlayerSample.apk)  | MultiPlayer Sample Cell  | [MultiPlayer APK](https://github.com/TharunDharmaraj/TharunDharmaraj/raw/main/MultiPlayerSample.apk) | [Thirumalai](https://github.com/Thiru-Malai) <br> [Arun](https://github.com/ARUN-S01)  <br> [Tharun](https://github.com/TharunDharmaraj) |
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=TharunDharmaraj&style=flat-square&color=blue)
 
 </details>
